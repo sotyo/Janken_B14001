@@ -1,4 +1,5 @@
 class Game {
+  
 int win=0;
 int draw=0;
 int lose=0;
